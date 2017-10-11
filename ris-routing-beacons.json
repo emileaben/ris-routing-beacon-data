@@ -1,0 +1,86 @@
+[
+  {
+    "pfx": "84.205.64.0/24", 
+    "type": "multihop", 
+    "name": "RRC00 - RIPE NCC", 
+    "location": "Amsterdam, NL"
+  }, 
+  {
+    "pfx": "84.205.65.0/24", 
+    "type": "local", 
+    "name": "RRC01 - LINX", 
+    "location": "London, UK"
+  }, 
+  {
+    "pfx": "84.205.67.0/24", 
+    "type": "local", 
+    "name": "RRC03 - AMS-IX, NL-IX", 
+    "location": "Amsterdam, NL"
+  }, 
+  {
+    "pfx": "84.205.68.0/24", 
+    "type": "local", 
+    "name": "RRC04 - CIXP", 
+    "location": "Geneva, CH"
+  }, 
+  {
+    "pfx": "84.205.69.0/24", 
+    "type": "local", 
+    "name": "RRC05 - VIX", 
+    "location": "Vienna, AT"
+  }, 
+  {
+    "pfx": "84.205.70.0/24", 
+    "type": "local", 
+    "name": "RRC06 - DIX-IE", 
+    "location": "Otematchi, JP"
+  }, 
+  {
+    "pfx": "84.205.71.0/24", 
+    "type": "local", 
+    "name": "RRC07 - NETNOD", 
+    "location": "Stockholm, SE"
+  }, 
+  {
+    "pfx": "84.205.74.0/24", 
+    "type": "local", 
+    "name": "RRC10 - MIX", 
+    "location": "Milan, IT"
+  }, 
+  {
+    "pfx": "84.205.75.0/24", 
+    "type": "local", 
+    "name": "RRC11 - NYIIX", 
+    "location": "New York , NY, US"
+  }, 
+  {
+    "pfx": "84.205.76.0/24", 
+    "type": "local", 
+    "name": "RRC12 - DE-CIX", 
+    "location": "Frankfurt, DE"
+  }, 
+  {
+    "pfx": "84.205.77.0/24", 
+    "type": "local", 
+    "name": "RRC13 - MSK-IX", 
+    "location": "Moscow, RU"
+  }, 
+  {
+    "pfx": "84.205.78.0/24", 
+    "type": "local", 
+    "name": "RRC14 - PAIX", 
+    "location": "Palo Alto, CA, US"
+  }, 
+  {
+    "pfx": "84.205.79.0/24", 
+    "type": "local", 
+    "name": "RRC15 - PTTMetro-SP", 
+    "location": "Sao Paulo, BR"
+  }, 
+  {
+    "pfx": "84.205.73.0/24", 
+    "type": "local", 
+    "name": "RRC16 - NOTA", 
+    "location": "Miami, FL, US"
+  }
+]
